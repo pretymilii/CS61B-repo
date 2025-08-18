@@ -65,8 +65,6 @@ public class CheckLabConfig {
 		if (!isDirectory) {
 			System.out.println("ERROR! " + value + " is not a valid folder.");
 			System.out.println("Double check that this variable was set correctly.");
-			System.exit(1);
-		}
 
 	}
 
