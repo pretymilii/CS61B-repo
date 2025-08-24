@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "javalib/**/*.jar",
+        "/home/madoka/CS61B/library-sp21/**/*.jar"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.errors.incompleteClasspath.severity": "ignore"
+}

@@ -1,5 +1,5 @@
 package game2048;
-import org.junit.Test;
+import junit.Test;
 
 import static org.junit.Assert.*;
 
